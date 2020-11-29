@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework_1
+namespace Homework
 {
-    class Homework_1
+    class Homework
     {
         static void Main(string[] args)
         {
