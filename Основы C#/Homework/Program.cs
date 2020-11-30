@@ -78,24 +78,6 @@ namespace Homework
             }
             while (z < 3);
             Console.WriteLine("Количество попыток исчерпано");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         }
     }
 }
