@@ -13,43 +13,43 @@ namespace Homework
 
             // Задача 1. Написать метод, возвращающий минимальное из трех чисел.
 
-            //Console.Write("Введите первое число ");
-            //var a = int.Parse(Console.ReadLine());
-            //Console.Write("Введите второе число ");
-            //var b = int.Parse(Console.ReadLine());
-            //Console.Write("Введите третье число ");
-            //var c = int.Parse(Console.ReadLine());
-            //int min = 0;
+            Console.Write("Введите первое число ");
+            var a = int.Parse(Console.ReadLine());
+            Console.Write("Введите второе число ");
+            var b = int.Parse(Console.ReadLine());
+            Console.Write("Введите третье число ");
+            var c = int.Parse(Console.ReadLine());
+            int min = 0;
 
-            //min = (a < b && a < c) ? a : (b < c) ? b : c;
-            //Console.WriteLine(min);
+            min = (a < b && a < c) ? a : (b < c) ? b : c;
+            Console.WriteLine(min);
 
 
 
             // Задача 2. Написать метод подсчета количества цифр числа.
 
-            //Console.Write("Введите число");
-            //var n = int.Parse(Console.ReadLine());
+            Console.Write("Введите число");
+            var n = int.Parse(Console.ReadLine());
 
-            //int num = (int)Math.Log10(n) + 1;
-            //Console.WriteLine(num);
+            int num = (int)Math.Log10(n) + 1;
+            Console.WriteLine(num);
 
 
 
             // Задача 3. С клавиатуры вводятся числа, пока не будет введен 0. Подсчитать сумму всех нечетных положительных чисел.
 
-            //Console.WriteLine("Введите целое число");
-            //int count = 0;
-            //int summ = 0;
-            //var x = Convert.ToInt32(Console.ReadLine());
-            //while ( x != 0 )
-            //{
-            //    count ++ ;
-            //    if (x % 2 != 0)
-            //    summ = summ + x;
-            //    x = Convert.ToInt32(Console.ReadLine());
-            //}
-            //Console.WriteLine("Сумма нечетных, положительных чисел равна " + summ);
+            Console.WriteLine("Введите целое число");
+            int count = 0;
+            int summ = 0;
+            var x = Convert.ToInt32(Console.ReadLine());
+            while ( x != 0 )
+            {
+                count ++ ;
+                if (x % 2 != 0)
+                summ = summ + x;
+                x = Convert.ToInt32(Console.ReadLine());
+            }
+            Console.WriteLine("Сумма нечетных, положительных чисел равна " + summ);
 
             // Задача 4
 
