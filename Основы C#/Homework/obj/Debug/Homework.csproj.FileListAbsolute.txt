@@ -1,0 +1,14 @@
+C:\Users\kislo\Source\Repos\Admiliral\GeekBrains\Homework\bin\Debug\Homework.exe.config
+C:\Users\kislo\Source\Repos\Admiliral\GeekBrains\Homework\bin\Debug\Homework.exe
+C:\Users\kislo\Source\Repos\Admiliral\GeekBrains\Homework\bin\Debug\Homework.pdb
+C:\Users\kislo\Source\Repos\Admiliral\GeekBrains\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\kislo\Source\Repos\Admiliral\GeekBrains\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\kislo\Source\Repos\Admiliral\GeekBrains\Homework\obj\Debug\Homework.exe
+C:\Users\kislo\Source\Repos\Admiliral\GeekBrains\Homework\obj\Debug\Homework.pdb
+C:\Users\kislo\Source\Repos\Admiliral\GeekBrains\Основы C#\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\kislo\Source\Repos\Admiliral\GeekBrains\Основы C#\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\kislo\Source\Repos\Admiliral\GeekBrains\Основы C#\Homework\obj\Debug\Homework.exe
+C:\Users\kislo\Source\Repos\Admiliral\GeekBrains\Основы C#\Homework\obj\Debug\Homework.pdb
+C:\Users\kislo\Source\Repos\Admiliral\GeekBrains\Основы C#\Homework\bin\Debug\Homework.exe.config
+C:\Users\kislo\Source\Repos\Admiliral\GeekBrains\Основы C#\Homework\bin\Debug\Homework.exe
+C:\Users\kislo\Source\Repos\Admiliral\GeekBrains\Основы C#\Homework\bin\Debug\Homework.pdb
